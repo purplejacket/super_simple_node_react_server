@@ -1,0 +1,11 @@
+{
+  "name": "super_simple_server",
+  "version": "1.0.0",
+  "description": "a simple server example, plus ReactDOMServer.renderToString",
+  "main": "node_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kai Middleton",
+  "license": "MIT"
+}
