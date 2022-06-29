@@ -8,7 +8,7 @@ class App extends React.Component {
     super(props);
   }
   render() {
-    return React.createElement("div", null, "A very simple component");
+    return React.createElement("div", null, "A very simple server-rendered component");
   }
 }
 
